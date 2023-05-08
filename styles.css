@@ -1,0 +1,65 @@
+.navbar-brand {
+  width: 20%;
+}
+
+.account-image {
+  object-fit: cover;
+  width: 25px;
+  height: 25px;
+  border-radius: 100%;
+  margin: 0 10px;
+}
+
+.left-nav {
+  position: absolute;
+}
+
+.left-nav li {
+  margin-bottom: 20px;
+}
+
+.content-size {
+  width: 90%;
+  padding: 20px 50px;
+}
+
+.row{
+  justify-content: center;
+}
+
+.left-space {
+  position: relative;
+  left: 10%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.topp {
+  top: 0;
+}
+
+.bottomm {
+  top: 950px;
+}
+
+.card img {
+  margin: 20px auto 0;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 12px;
+}
+
+.card-text {
+  margin: 20px 0;
+  padding: 12px 0 0;
+  border: solid 0.1px;
+  border-radius: 7px;
+}
+
+.d-grid .btn {
+  padding: 10px 0;
+  background: #FC4F00;
+  color: white;
+}
